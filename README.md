@@ -30,7 +30,7 @@
 <td>Real-Time Rendering, Fourth Edition<br><br>实时渲染，深入浅出地介绍实时渲染领域的各种细节，据说正在进行中文版的翻译工作</td>
 </tr><tr>
 <td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/main/images/Physically Based Rendering, Third Edition.jpg"/></td>
-<td>Physically Based Rendering, Third Edition<br><br>基于物理的渲染，主要介绍一个离线光追渲染器的实现，被简称为 pbrt3 (2016出版)，pbrt4 即将成书，参见 <a>https://github.com/mmp/pbrt-v4</a></td>
+<td>Physically Based Rendering, Third Edition<br><br>基于物理的渲染，主要介绍一个离线光追渲染器的实现，被简称为 pbrt3 (2016出版)，pbrt4 即将成书，参见<a href="https://github.com/mmp/pbrt-v4">Github-pbrt4</a></td>
 </tr></table>
 
 ## 附录2：在线教程
