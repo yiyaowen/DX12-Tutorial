@@ -1,4 +1,4 @@
-# DirectX 12 3D 黑魔法教程：从 Simple Triangle 到 3A 级渲染 —— RTX 9090 Ti Super：我燃尽了！
+# DirectX 12 黑魔法教程：从 Simple Triangle 到 3A 级渲染 —— RTX 9090 Ti Super：我燃尽了！
 
 ### 持续更新中！阅读过程中有任何问题留个 Issue 一起交流！
 
@@ -17,20 +17,20 @@
 ## 附录1：推荐书籍
 
 <table><tr>
-<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/images/Computer Graphics, 3rd Edition.jpg" height="41"/></td>
-<td>Computer Graphics, 3rd Edition<br>计算机图形学众多经典教程之一</td>
+<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/main/images/Computer Graphics, 3rd Edition.jpg"/></td>
+<td>Computer Graphics, 3rd Edition<br><br>计算机图形学众多经典教程之一</td>
 </tr><tr>
-<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/images/Introduction to 3D Game Programming with DirectX 12.jpg" height="41"/></td>
-<td>Introduction to 3D Game Programming with DirectX 12<br>Frank D. Luna 大叔力作，从 DirectX 9 3D 到如今的 DirectX 12 3D，本本都是经典教程</td>
+<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/main/images/Introduction to 3D Game Programming with DirectX 12.jpg"/></td>
+<td>Introduction to 3D Game Programming with DirectX 12<br><br>Frank D. Luna 大叔力作，从当年的 DirectX 9 (红龙封面) 到如今的 DirectX 12，本本都是经典教程</td>
 </tr><tr>
-<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/images/Introduction to 3D Game Programming with DirectX 12_zh-CN.jpg" height="41"/></td>
-<td>DirectX 12 3D 游戏开发实战<br>上书的中文翻译版，被广大开发者亲切地称为 (DX12 龙书)，可见其内容质量和影响力</td>
+<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/main/images/Introduction to 3D Game Programming with DirectX 12_zh-CN.jpg"/></td>
+<td>DirectX 12 3D 游戏开发实战<br><br>上书的中文翻译版，被广大开发者亲切地称为 (DX12 龙书)，可见其内容质量和影响力</td>
 </tr><tr>
-<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/images/Real-Time Rendering, Fourth Edition.jpg" height="41"/></td>
-<td>Real-Time Rendering, Fourth Edition<br>实时渲染，深入浅出地介绍实时渲染领域的各种细节，据说正在进行中文版的翻译工作</td>
+<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/main/images/Real-Time Rendering, Fourth Edition.jpg"/></td>
+<td>Real-Time Rendering, Fourth Edition<br><br>实时渲染，深入浅出地介绍实时渲染领域的各种细节，据说正在进行中文版的翻译工作</td>
 </tr><tr>
-<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/images/Physically Based Rendering, Third Edition.jpg" height="41"/></td>
-<td>Physically Based Rendering, Third Edition<br>基于物理的渲染，主要介绍一个离线光追渲染器的实现，被简称为 pbrt3 (2016出版)，pbrt4 即将成书，参见 <a>https://github.com/mmp/pbrt-v4</a></td>
+<td><img src="https://media.githubusercontent.com/media/yiyaowen/DX12-Tutorial/main/images/Physically Based Rendering, Third Edition.jpg"/></td>
+<td>Physically Based Rendering, Third Edition<br><br>基于物理的渲染，主要介绍一个离线光追渲染器的实现，被简称为 pbrt3 (2016出版)，pbrt4 即将成书，参见 <a>https://github.com/mmp/pbrt-v4</a></td>
 </tr></table>
 
 ## 附录2：在线教程
